@@ -23,6 +23,9 @@ Explore what we’re building and using:
 - Quantum Odds – <https://quantumodds.xyz/>  
 - Elemental Markets – <https://www.elementalmarkets.xyz/>
 - Goal Matrix - <https://goalmatrix.xyz/>
+- Data Base 1 - <https://github.com/bet2all/bet2all/tree/main/data/season_2025>
+- Data Base 2 - <https://github.com/bet2all-scorpion/football-data-bet2all>
+- Books - <https://t.me/bet2all_livros>
 
 ## Join the channels
 
@@ -82,6 +85,9 @@ Explora o que estamos a construir e a utilizar:
 - Quantum Odds – <https://quantumodds.xyz/>  
 - Elemental Markets – <https://www.elementalmarkets.xyz/>
 - Goal Matrix - <https://goalmatrix.xyz/>
+- Base de dados 1 - <https://github.com/bet2all/bet2all/tree/main/data/season_2025>
+- Base dados 2 - <https://github.com/bet2all-scorpion/football-data-bet2all>
+- Livros - <https://t.me/bet2all_livros>
 
 ## Canais
 
