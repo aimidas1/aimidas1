@@ -33,6 +33,7 @@ Explore what we’re building and using:
 - Bet2All (EN): <https://t.me/bet2all_english>  
 - AI MIDAS (BR): <https://t.me/ai_midas_oficial>  
 - AI MIDAS (EN): <https://t.me/AI_MIDAS_ENG>
+- Data Base Telegram: <https://t.me/bet2all_base_dados>
 - Twitter AI MIDAS (BR): <https://x.com/AIMIDAS_BR>
 - Twitter AI MIDAS (EN): <https://x.com/AI_MIDAS_>
 - Twitter Matheus: <https://x.com/Matheus_AiMidas>
@@ -95,6 +96,7 @@ Explora o que estamos a construir e a utilizar:
 - Bet2All (EN): <https://t.me/bet2all_english>  
 - AI MIDAS (PT): <https://t.me/ai_midas_oficial>  
 - AI MIDAS (EN): <https://t.me/AI_MIDAS_ENG>
+- Base de dados Telegram: <https://t.me/bet2all_base_dados>
 - Twitter AI MIDAS (BR): <https://x.com/AIMIDAS_BR>
 - Twitter AI MIDAS (EN): <https://x.com/AI_MIDAS_>
 - Twitter Matheus: <https://x.com/Matheus_AiMidas>
