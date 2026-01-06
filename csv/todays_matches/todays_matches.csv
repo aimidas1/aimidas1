@@ -1,4 +1,7 @@
 ﻿date,league,game_week,home_name,away_name,pre_match_home_ppg,pre_match_away_ppg,team_a_xg_prematch,team_b_xg_prematch,total_xg_prematch,btts_potential,o05HT_potential,o15HT_potential,u15_potential,o15_potential,o25_potential,u25_potential,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over15,odds_ft_over25,odds_ft_over35,odds_btts_yes,odds_btts_no,odds_corners_under_85,odds_corners_under_95,odds_corners_over_85,odds_corners_over_95,odds_1st_half_over05,odds_1st_half_over15,odds_1st_half_under05,odds_1st_half_under15
-2026-01-05 18:00:00,Portugal LigaPro,17,Benfica II,Porto II,1.38,1.0,2.2,1.34,3.54,46,94,34,21,80,47,54,1.73,3.55,4.0,1.25,1.8,2.88,1.68,2.0,3.68,2.61,1.19,1.44,1.35,2.62,2.9,1.42
-2026-01-05 20:00:00,England Championship,26,Leicester City,West Bromwich Albion,1.58,0.69,1.42,1.26,2.68,61,85,37,27,73,52,48,2.32,3.34,2.94,1.32,1.95,3.8,1.8,1.9,2.71,2.06,1.38,1.86,1.42,2.99,2.62,1.34
-2026-01-05 20:15:00,Portugal LigaPro,17,FC Vizela,Torreense,1.71,1.25,1.65,1.4,3.05,34,53,14,40,61,41,60,1.8,3.3,3.9,1.33,2.1,3.5,1.86,1.8,2.79,2.1,1.39,1.82,1.4,2.99,2.59,1.33
+2026-01-06 14:00:00,Italy Serie A,19,Pisa,Como,0.67,1.33,1.1,1.41,2.51,17,39,11,61,39,22,78,4.9,3.5,1.72,1.33,2.05,3.9,1.95,1.78,1.68,1.51,1.91,2.87,1.48,3.1,2.62,1.36
+2026-01-06 17:00:00,Italy Serie A,19,Lecce,Roma,1.0,1.67,1.25,1.47,2.72,33,61,22,56,45,39,62,5.2,3.47,1.7,1.53,2.3,4.3,2.16,1.63,2.37,1.97,1.6,1.99,1.43,3.44,2.42,1.28
+2026-01-06 19:45:00,Scotland Premiership,11,Livingston,St. Mirren,0.56,0.56,1.3,1.35,2.65,78,73,39,11,89,73,28,2.61,3.01,2.47,1.28,2.02,3.55,1.74,2.05,2.6,2.05,1.43,1.72,1.41,2.89,2.69,1.36
+2026-01-06 19:45:00,Italy Serie A,19,Sassuolo,Juventus,1.22,1.56,1.29,1.46,2.75,50,73,28,33,67,33,67,4.6,3.67,1.73,1.27,1.91,3.45,1.9,1.87,2.18,1.66,1.62,2.04,1.39,2.63,2.84,1.4
+2026-01-06 20:00:00,England Premier League,21,West Ham United,Nottingham Forest,0.7,0.8,1.22,1.19,2.41,45,75,40,15,85,55,45,3.0,3.55,2.3,1.29,1.83,3.35,1.7,2.0,2.92,2.2,1.36,1.78,1.4,2.8,2.8,1.4
+2026-01-06 20:00:00,Scotland Premiership,11,Rangers,Aberdeen,1.9,1.2,1.9,1.21,3.11,35,55,15,40,60,30,70,2.11,3.34,2.88,1.18,1.8,2.61,1.72,2.01,3.13,2.36,1.29,1.65,1.31,2.41,3.29,1.5
