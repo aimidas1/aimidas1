@@ -1,3 +1,7 @@
 *
+!csv/
+!csv/**
+!data/
+!data/**
 !advanced stats/
 !advanced stats/**
