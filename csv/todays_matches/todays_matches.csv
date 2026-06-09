@@ -1,5 +1,4 @@
 ﻿date,league,game_week,home_name,away_name,pre_match_home_ppg,pre_match_away_ppg,team_a_xg_prematch,team_b_xg_prematch,total_xg_prematch,btts_potential,o05HT_potential,o15HT_potential,u15_potential,o15_potential,o25_potential,u25_potential,odds_ft_1,odds_ft_x,odds_ft_2,odds_ft_over15,odds_ft_over25,odds_ft_over35,odds_btts_yes,odds_btts_no,odds_corners_under_85,odds_corners_under_95,odds_corners_over_85,odds_corners_over_95,odds_1st_half_over05,odds_1st_half_over15,odds_1st_half_under05,odds_1st_half_under15
-2026-06-09 00:00:00,Uruguay Primera División,4,Liverpool FC Montevideo,Cerro Largo,1.13,1.11,1.37,1.27,2.64,30,65,25,41,60,42,59,1.85,2.98,3.28,1.34,2.11,4.58,1.91,1.8,2.33,1.83,1.52,1.85,1.43,2.9,2.53,1.3
-2026-06-09 00:00:00,Colombia Categoria Primera A,0,Atlético Nacional,Junior,2.17,1.83,1.7,1.38,3.08,46,82,40,19,82,61,40,1.37,4.05,5.05,0.0,1.72,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2026-06-09 01:00:00,Brazil Serie B,12,América Mineiro,Atlético GO,0.2,1.0,1.36,1.06,2.42,60,70,30,30,70,50,50,2.37,3.04,3.08,1.43,2.47,4.6,2.02,1.71,2.95,2.25,1.34,1.56,1.45,3.3,2.36,1.29
-2026-06-09 01:00:00,Brazil Serie B,12,Vila Nova,Botafogo SP,2.2,0.83,1.56,1.32,2.88,57,49,29,34,67,39,62,1.95,2.81,3.15,1.38,2.25,4.4,2.15,1.66,3.1,2.35,1.3,1.52,1.57,3.3,2.29,1.25
+2026-06-09 21:00:00,Spain Segunda División,0,Almería,CD Castellón,1.74,1.7,1.7,1.76,3.46,68,70,44,20,81,60,41,2.34,3.6,2.9,0,1.66,0,0,0,0,0,0,0,0,0,0,0
+2026-06-10 00:00:00,Brazil Serie B,12,Náutico,Fortaleza,1.8,0.83,1.73,1.28,3.01,9,37,19,64,37,37,64,2.2,3.0,3.3,0,2.25,0,0,0,0,0,0,0,0,0,0,0
+2026-06-10 00:00:00,Brazil Serie B,12,Ponte Preta,Cuiabá,0.83,1.2,1.43,0.8,2.23,25,34,9,65,35,17,84,3.37,2.87,2.33,0,3.1,0,0,0,0,0,0,0,0,0,0,0
