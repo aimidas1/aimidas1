@@ -1,0 +1,5 @@
+.env
+.last_sync
+*.log
+__pycache__/
+*.py[cod]
